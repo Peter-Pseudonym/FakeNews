@@ -14,4 +14,4 @@ STEP THREE:
 
 1. Feed specific batches of the data into a keras network
 2. Use different metrics to analyze
-3. Group, categorize and rate articles according to their determined "truthiness"
+3. Group, categorize and rate articles according to their determined trustworthiness
